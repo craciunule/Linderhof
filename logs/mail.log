@@ -1,0 +1,32 @@
+2019-02-25 20:09:57 u94785070 0EPNG2-1h8abo1eQ9-013Knc |< REMOTE="2600:1004:b108:c5e4:fca6:f206:b8cd:5a03" SCRIPT=/send_form_email.php -- /usr/sbin/sendmail -t -i
+2019-02-25 20:09:57 u94785070 0EPNG2-1h8abo1eQ9-013Knc <= S=Jeremiah.bolen@pilottravelcenters.com SZ=1001 D=0 SID=752664585
+2019-02-25 20:09:57 u94785070 0EPNG2-1h8abo1eQ9-013Knc => reservations@restaurantlinderhof.com msmtp.perfora.net[172.19.143.3] 250 Requested mail action okay, completed: id=0LoH8R-1hVZ1Q2Bth-00gKEG
+2019-02-25 20:09:57 u94785070 0EPNG2-1h8abo1eQ9-013Knc => linderhofap@gmail.com msmtp.perfora.net[172.19.143.3] 250 Requested mail action okay, completed: id=0LoH8R-1hVZ1Q2Bth-00gKEG
+2019-02-27 12:10:53 u94785070 0DgRnh-1ghvql1JXC-00LZbH |< REMOTE=96.4.124.60 SCRIPT=/send_form_email.php -- /usr/sbin/sendmail -t -i
+2019-02-27 12:10:53 u94785070 0DgRnh-1ghvql1JXC-00LZbH <= S=daphnebell@sevier.org SZ=880 D=0 SID=752664585
+2019-02-27 12:10:53 u94785070 0DgRnh-1ghvql1JXC-00LZbH => reservations@restaurantlinderhof.com msmtp.perfora.net[172.19.143.3] 250 Requested mail action okay, completed: id=0Lhu9U-1hKPK31sBu-00n9vu
+2019-02-27 12:10:53 u94785070 0DgRnh-1ghvql1JXC-00LZbH => linderhofap@gmail.com msmtp.perfora.net[172.19.143.3] 250 Requested mail action okay, completed: id=0Lhu9U-1hKPK31sBu-00n9vu
+2019-02-28 13:35:54 u94785070 0EFmcP-1hGg0C1Gpy-00ujqd |< REMOTE="2600:1004:b15c:2bb4:2c8a:138b:c233:bfae" SCRIPT=/send_form_email.php -- /usr/sbin/sendmail -t -i
+2019-02-28 13:35:54 u94785070 0EFmcP-1hGg0C1Gpy-00ujqd <= S=ricejessie4@gmail.com SZ=946 D=0 SID=752664585
+2019-02-28 13:35:54 u94785070 0EFmcP-1hGg0C1Gpy-00ujqd => reservations@restaurantlinderhof.com msmtp.perfora.net[172.19.143.3] 250 Requested mail action okay, completed: id=0M9peg-1goNv81Mr2-00B1gS
+2019-02-28 13:35:54 u94785070 0EFmcP-1hGg0C1Gpy-00ujqd => linderhofap@gmail.com msmtp.perfora.net[172.19.143.3] 250 Requested mail action okay, completed: id=0M9peg-1goNv81Mr2-00B1gS
+2019-03-01 10:25:02 u94785070 0EOY2n-1h84um497u-013bRL |< REMOTE=216.96.193.88 SCRIPT=/send_form_email.php -- /usr/sbin/sendmail -t -i
+2019-03-01 10:25:02 u94785070 0EOY2n-1h84um497u-013bRL <= S=vossler@utk.edu SZ=869 D=0 SID=752664585
+2019-03-01 10:25:03 u94785070 0EOY2n-1h84um497u-013bRL => reservations@restaurantlinderhof.com msmtp.perfora.net[172.19.143.3] 250 Requested mail action okay, completed: id=0M41bQ-1hHxL30nzu-00rXqq
+2019-03-01 10:25:03 u94785070 0EOY2n-1h84um497u-013bRL => linderhofap@gmail.com msmtp.perfora.net[172.19.143.3] 250 Requested mail action okay, completed: id=0M41bQ-1hHxL30nzu-00rXqq
+2019-03-01 14:14:23 u94785070 0E9LRc-1gsPMW12wR-00ArDE |< REMOTE=24.158.127.162 SCRIPT=/send_form_email.php -- /usr/sbin/sendmail -t -i
+2019-03-01 14:14:23 u94785070 0E9LRc-1gsPMW12wR-00ArDE <= S=jcscheifla@yahoo.com SZ=887 D=0 SID=752664585
+2019-03-01 14:14:23 u94785070 0E9LRc-1gsPMW12wR-00ArDE => reservations@restaurantlinderhof.com msmtp.perfora.net[172.19.143.3] 250 Requested mail action okay, completed: id=0Lm5DD-1hYaKc19QP-00Zk57
+2019-03-01 14:14:23 u94785070 0E9LRc-1gsPMW12wR-00ArDE => linderhofap@gmail.com msmtp.perfora.net[172.19.143.3] 250 Requested mail action okay, completed: id=0Lm5DD-1hYaKc19QP-00Zk57
+2019-03-01 17:53:55 u94785070 0DuiT3-1gVcsz2Bko-00VMIN |< REMOTE="2601:840:8500:4684:dc3f:586e:afd8:d8ad" SCRIPT=/send_form_email.php -- /usr/sbin/sendmail -t -i
+2019-03-01 17:53:55 u94785070 0DuiT3-1gVcsz2Bko-00VMIN <= S=mcdavenport@live.com SZ=949 D=0 SID=752664585
+2019-03-01 17:53:55 u94785070 0DuiT3-1gVcsz2Bko-00VMIN => reservations@restaurantlinderhof.com msmtp.perfora.net[172.19.143.3] 250 Requested mail action okay, completed: id=0LvTAD-1h8pW42HuV-010e4W
+2019-03-01 17:53:55 u94785070 0DuiT3-1gVcsz2Bko-00VMIN => linderhofap@gmail.com msmtp.perfora.net[172.19.143.3] 250 Requested mail action okay, completed: id=0LvTAD-1h8pW42HuV-010e4W
+2019-03-01 19:50:24 u94785070 0EeKgG-1hVu5P2P15-00fjeu |< REMOTE=68.57.118.130 SCRIPT=/send_form_email.php -- /usr/sbin/sendmail -t -i
+2019-03-01 19:50:24 u94785070 0EeKgG-1hVu5P2P15-00fjeu <= S=mcdavenport@live.com SZ=890 D=0 SID=752664585
+2019-03-01 19:50:24 u94785070 0EeKgG-1hVu5P2P15-00fjeu => reservations@restaurantlinderhof.com msmtp.perfora.net[172.19.143.3] 250 Requested mail action okay, completed: id=0MUn2w-1gTwmC32lg-00Y6iN
+2019-03-01 19:50:24 u94785070 0EeKgG-1hVu5P2P15-00fjeu => linderhofap@gmail.com msmtp.perfora.net[172.19.143.3] 250 Requested mail action okay, completed: id=0MUn2w-1gTwmC32lg-00Y6iN
+2019-03-01 20:26:18 u94785070 0DvGhP-1gV2kM14pE-00UvUK |< REMOTE="2600:6c5d:5b00:f23:fec2:deff:fef4:1d76" SCRIPT=/send_form_email.php -- /usr/sbin/sendmail -t -i
+2019-03-01 20:26:18 u94785070 0DvGhP-1gV2kM14pE-00UvUK <= S=Adbej00@aol.com SZ=921 D=0 SID=752664585
+2019-03-01 20:26:18 u94785070 0DvGhP-1gV2kM14pE-00UvUK => reservations@restaurantlinderhof.com msmtp.perfora.net[172.19.143.3] 250 Requested mail action okay, completed: id=0MYMgJ-1gUldD1AQ5-00V965
+2019-03-01 20:26:18 u94785070 0DvGhP-1gV2kM14pE-00UvUK => linderhofap@gmail.com msmtp.perfora.net[172.19.143.3] 250 Requested mail action okay, completed: id=0MYMgJ-1gUldD1AQ5-00V965

@@ -1,0 +1,7 @@
+Please find our analysis result below.
+In order to make your website functional again you need to change file permissions at least to 604 after cleaning up.
+
+The following files have been likely uploaded by others.
+Please check these files and delete them if neccessary.
+~/backup-9.6.2018_16-13-10_aschmiss/homedir/public_html/wp-includes/rncron.php
+
